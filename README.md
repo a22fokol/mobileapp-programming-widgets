@@ -29,4 +29,4 @@ här är en del av mina koker som har använts under uppdraget
 
 Bilder läggs i samma mapp som markdown-filen.
 
-![](Screenshot_20230419_153159.png)
+![](Rainbow.png)
