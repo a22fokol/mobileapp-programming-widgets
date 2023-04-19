@@ -1,8 +1,6 @@
 
 # Rapport
-
-**Skriv din rapport här!**
-
+Jag ska skapat
 _Du kan ta bort all text som finns sedan tidigare_.
 
 ## Följande grundsyn gäller dugga-svar:
